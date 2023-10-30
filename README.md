@@ -1,2 +1,1 @@
-# MyLittleWebShop
-My GtHub MyLittleWebShop
+# MyLittleWebShop-By-Mint
